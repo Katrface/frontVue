@@ -1,0 +1,18 @@
+{
+    "id": 1,
+    "student": {
+        "id": 1,
+        "name": "t_vehicle",
+        "group": "0",
+        "course": "0"
+    },
+    "status": 2,
+    "date": "2020-11-13",
+    "errors": [
+        {
+            "id": 1,
+            "document_id": 1,
+            "description": "description"
+        }
+    ]
+}
