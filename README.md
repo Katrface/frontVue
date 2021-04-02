@@ -1,5 +1,10 @@
 # frontend4
 
+Взгляд сквозь время:
+отображение = функция(состояние)
+api нужно достать из store, создав слой services
+
+
 ## Project setup
 ```
 npm install
